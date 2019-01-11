@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Ismailia Guide</string>
+    <string name="topAttraction">Top Attraction</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="description">placeDescription</string>
+    <string name="publicPlaces">public Places</string>
+    <string name="the_museum">the Museum of Ismaili Antiquities</string>
+    <string name="abu_bakr_mosque">abu Bakr Alsadiq Mosque</string>
+    <string name="suez_canal">suez canal</string>
+    <string name="memorial">memorial</string>
+    <string name="flames">Flames</string>
+    <string name="redaHelmi">Reda Helmi</string>
+    <string name="bicicletta">Bicicletta</string>
+    <string name="specttra">Specttra</string>
+    <string name="tabat_alshajara">tabat alshajara</string>
+    <string name="elfyrooz">Elfyrooz</string>
+    <string name="tolip">Tolip</string>
+    <string name="nemra6">Nemra 6</string>
+    <string name="semsemya">Semsemya</string>
+    <string name="police_day">police day</string>
+    <string name="police_day_details">
+The Police Day is a commemoration of the 1952 Ismailia massacre
+      that killed 50 Egyptian martyrs and wounded by the British occupation on 25 January 1952
+      after the police refused to surrender their weapons
+      and evacuate the governorate building to the English occupation.
+This official leave was approved for the first time by a decision of the former Egyptian President Mohamed Hosni Mubarak
+      as an official holiday for the Egyptian government and public sector in recognition of the efforts of the Egyptian police to maintain security and stability of the homeland and in recognition of their sacrifices.</string>
+    <string name="semsemya_details">The sesame machine remains a favorite of the citizens of the canal cities,
+        which was and still represents a special case
+        and a true indicator of the joy and sorrow of the people of the governorates of the canal
+        since the 1940s till now,
+        a witness to the championships,
+        the great victory of 6 October,
+        the defeat of June 1967 and displacement,
+        Sesame Street is a document that documents everything through the folk songs
+        produced by the false old artist on the shore of the Suez Canal</string>
+    <string name="elfyrooz_details">Al-Fayrouz Beach is one of the best known beaches in Ismailia,
+        where there is a range of chalets within the club for club accommodation.
+        It offers many services to visitors through gardens, swimming pool, stadiums and restaurants,
+        as well as night parties organized by the club for its visitors.</string>
+    <string name="tolip_details">This 5-star hotel offers air-conditioned rooms with a private bathroom.
+        The residence features a spa,
+        evening entertainment and a 24-hour front desk.
+        All rooms at the hotel have a flat-screen TV with satellite channels.
+        All units include a kettle and a walk-in wardrobe.
+        A continental breakfast is available each morning at Tulip Al Fursan Hotel.
+        and there is an on-site restaurant serving a variety of Mediterranean, Chinese and Italian dishes.
+        Guests can use the hot tub and sauna,
+        and you can play billiards at the residence.</string>
+    <string name="nemra6_details">The region where the team was martyred Abdel Moneim Riad,
+        chief of staff of the Egyptian armed forces during the war of attrition,
+        the first point was then crossing at the beginning of the war of October 1973,
+        a region of nature charming magnificent located on a high hill
+        and a large green flat and a link between the two channels The Suez Canal Authority Hospital,
+        the Church of the Virgin Mary,
+        and Konish Nemra 6</string>
+    <string name="abo_atwa_tanks_exhibition">Abo Atwa Tanks Exhibition</string>
+    <string name="abo_atwa_tanks_exhibition_details">It was established in the village of Abu Atwa,
+        3 km from the city of Ismailia,
+        in memory of the battle in which the armed forces
+        and the Ismailis fought the Israeli invasion tanks in 1973.
+        They tried to break into the city and were captured in the same location</string>
+<string name="specttra_details">
+    For over 18 years now,  Spectra is one of  the largest companies working in the field of management and operation  of restaurants in Egypt,
+    which aims to achieve leadership in the food  and beverage activity
+    and to be the highest investment in the Egyptian  and Arab market .
+It offers breakfast, lunch, dinner, coffee and drinks
+Services
+Reservations accepted
+Suitable for groups
+Suitable for children
+Dining outside the restaurant
+Delivery Service
+Food Service
+Service waiter
+Outdoor seating</string>
+    <string name="redaHelmiDetails">Rida Helmi Restaurant serves grilled meats
+        and a wide variety of fresh Arab authorities
+        and may be suitable for families as it offers a lot of food with relatively little money.</string>
+    <string name="flamesDetails">Breakfast, lunch, dinner, drinks and coffee are served
+Services
+Food Service
+Delivery Service
+Suitable for sales
+Suitable for children
+Outdoor seating
+Dining outside the restaurant
+Address Eldayery Road</string>
+    <string name="biciclettaDetails">
+    While a Blend Of Excellent Taste and Perfect Service And Nice Decoration All Come In One Place!
+It offers breakfast, lunch, dinner, drinks and coffee
+Services
+Food Service
+Delivery Service
+Suitable for groups
+Suitable for children
+Reservations accepted
+Service waiter
+address :Ammar bin Yasser Street, behind the health insurance, seventh</string>
+    <string name="abu_bakr_details">Specifications of the Museum of Ismaili Antiquities on Mohamed Ali Street,
+        at the beginning of the Euphrates district in front of the famous navigation gardens.
+Spying is away from the old Ismailia Governorate building.
+"Assessment of the Egyptian Labor Force" in 1911, and opened for the visit on 13 February 1934.
+The museum includes a collection of artifacts from the various eras of "Egypt's" history ,
+        beginning with the pharaonic era until the governor Muhammad Ali.
+One of the most important regional museums, with 6,000 artifacts of different ages, currently has 850 pieces.
+Editorial of Hamdallah 5 - 5 pounds for proposals and 3 pounds for students - and 30 pounds for non-Egyptians, and students.
+Assessments are hosted by school and university students, workshops are organized to hear the children in the museum garden.
+The museum cooperates with the Ministry of Education, Suez Canal University, Ismailia Governorate,
+        and the Suez Canal Authority, to organize famous trips to Egypt.
+The museum has a modern mummification chamber, with a Pharaonic mummy, recently discovered,
+        coming from San Al-Hajar, 4 months old. The components of embalming are explained in the room.
+There is a new showcase for the permanent exhibition in the museum.
+</string>
+    <string name="the_museum_details">The Ismailia Museum of Antiquities is a museum in Ismailia, Egypt.
+        The museum was built by the engineers of the International Maritime Company in 1911 .
+        The museum was opened for the visit in 1913.
+        The museum contains a collection of artifacts from the different Egyptian history, beginning with the Pharaonic era until the era of the wali Muhammad Ali.the address: Mohamed Aly St.، EL AFRANG DISTRICT
+</string>
+    <string name="suez_canal_details">The Suez Canal is an artificial waterway in Egypt with a length of 193 km
+        and between Bahrain and the Mediterranean.It is divided vertically into two parts,north and south of the lakes of Marsa,and in parallel to two passages in most of its parts to allow vessels to cross in two directions at the same timebetween Europe and Asia ,Is the fastest sea passage between the two continents and provides about 15 days.
+</string>
+    <string name="memorial_details">Located on the east bank of the region No. 6 and was erected in honor of the martyrs of the October war, in the form of a sonic rifle and attached to the cafeteria and there is a theater in the Roman style
+</string>
+    <string name="tabat_alshajara_details">One of the solid points in the line of Barlev, which had 18 points fortified by the Egyptian forces to destroy it .. 10 kilometers from the city of Ismailia and 9 kilometers east of the Suez Canal, take the road to reach the middle road within the eastern bank of the Suez Canal, From that point, move left at a distance of 750 meters until reaching the most important point established by Israel along the line of Barlev after the setback in 1967, in order to control 8 points along the Barlev line, from the region of «Balah» to the north, , And the choice of Israel for that particular location, because it rises from the surface of the channel Sui By 74 meters, you can see through the Bar-Lev line on the course of the length of the channel, the Egyptian armed forces transformed the «Tepe tree» to citizens a tourist shrine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
